@@ -1,7 +1,7 @@
 +++
 title = 'My Second Post'
 date = 2024-03-19T16:31:08-05:00
-draft = true
+
 +++
 ### Second Page
 
